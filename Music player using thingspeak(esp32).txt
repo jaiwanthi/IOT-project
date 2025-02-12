@@ -1,0 +1,17 @@
+Name : Jaiwanthi R 
+
+Roll no: CB.EN.U4CCE23017
+
+Title : Music player using Thingspeak. 
+
+Board : ESP32
+
+Link: https://wokwi.com/projects/403747258725978113
+
+https://thingspeak.com/channels/2598327
+
+Components: Led, resistor, switch, esp32, connecting wires.
+
+Problem Statement: Modern lifestyles often involve multitasking and limited attention spans, making it easy to lose track of music playback. Manually managing music playback can be inconvenient, especially when dealing with various physical devices. There's a need for an intuitive and efficient way to control music playback, with feedback and state monitoring that can be accessed remotely.
+
+Solution: This project aims to address these issues by providing a smart music player system with physical control buttons, an LED indicator for playback status, and ThingSpeak integration for remote monitoring.

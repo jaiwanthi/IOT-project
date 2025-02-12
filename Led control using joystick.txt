@@ -1,0 +1,26 @@
+Name: Jaiwanthi R 
+
+Roll no: CB.EN.U4CCE23017
+
+Title: controlling the brightness of led using joystick 
+
+Board: ESP32 
+Link: https://wokwi.com/projects/396603863028774913
+
+Components: 
+Esp32 
+Led
+Joystick 
+Resistor 
+Connecting wires
+
+
+Problem Statement:
+
+Design a system that allows for the control of an LED's brightness using a joystick, providing a user-friendly interface for adjusting the light output.
+
+Solution:
+
+- User-friendly interface for adjusting LED brightness.
+- Precise control over brightness levels.
+- Can be used in various applications (e.g., lighting systems, robotics, art installations).

@@ -1,0 +1,19 @@
+Name: Jaiwanthi R 
+
+Roll no: CB.EN.U4CCE23017
+
+Title: window and door status indicator with motor simulation.
+
+Board: Arduino Uno 
+Link: https://wokwi.com/projects/396395559003953153
+
+Components: Arduino Uno 
+Led
+Relay
+Resistor 
+Slid switch 
+Connecting wires
+
+Problem statement:  windows and doors need to be monitored for security purposes. So this code provides the solution by alerting the user whether the window and door are open or closed. 
+
+Solution: Design and implement a system that provides real-time status indication for both a window and a door using LEDs while simulating motor operation. The system allows manual control via a switch, toggling the status of the window and door between open and closed states.
